@@ -5,4 +5,5 @@ whose derivative is governed by a constant matrix. Once this state-space represe
 integrals can be converted into matrix problems,
 and the final result becomes a boundary evaluation rather than a direct symbolic integration process
 (solving integrals using the matrix method)
+Author : Rida Jamal Badawi Abu-sokon
 https://bit.ly/MBM-CalculatorLiveApp
